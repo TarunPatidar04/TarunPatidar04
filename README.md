@@ -1,72 +1,70 @@
 # 🚀 Tarun Patidar — Full-Stack Developer | AI Explorer | Tech Aesthete  
 
-> I don’t just code, I craft systems that scale, interfaces that pop, and experiences that matter.
+> I don’t just code — I craft systems that scale, interfaces that pop, and experiences that truly matter.
 
 ---
 
 ## 🧠 About Me
 
-- 🎯 Focused on building **scalable full-stack apps** with modern frameworks.
-- 🔍 Currently exploring **Generative AI** and how it blends with real-world apps.
-- ⚙️ Weekend hacker — I love creating **micro tools**, **experimental apps**, and **open-source contributions**.
-- 💬 Always curious about **system design**, **developer tools**, and **automation**.
-- ✨ Fun Fact: I break, fix, and rebuild things — that’s how I grow 💪
+- 🎯 Building **scalable full-stack apps** with modern technologies.
+- 🤖 Diving deep into **Generative AI**, LLM agents, and real-world applications.
+- ⚒️ Weekend warrior — I build **mini tools**, experiment with **AI models**, and contribute to **open-source**.
+- 🧩 Passionate about **clean code**, **system design**, and **developer UX**.
+- ✨ Fun fact: I break, fix, learn, and repeat — that’s my dev loop 🔁
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧩 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🧠 Frontend  
+- **Frameworks:** React, Next.js  
+- **Languages:** JavaScript, TypeScript  
+- **Styling:** Tailwind CSS, HTML5, CSS3  
 
-### 🧪 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PayloadCMS](https://img.shields.io/badge/PayloadCMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
+### ⚙️ Backend  
+- **Runtime & Frameworks:** Node.js, Express.js  
+- **Database & CMS:** MongoDB, Payload CMS  
+- **API Style:** REST APIs, Webhooks  
 
-### 🤖 AI & GenAI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=black)
+### 🧬 GenAI / AI  
+- **Languages & Libs:** Python, LangChain  
+- **Platforms:** OpenAI, Hugging Face  
+- **Use-Cases:** Chatbots, Storytelling, AI Agents  
+
+### 🧰 Dev Tools  
+- Git & GitHub, VS Code, Postman, Figma  
+- Learning: Docker, CI/CD, Testing Tools
 
 ---
 
 ## 🛠️ Projects & Work Ethic
 
-- 🧱 I follow **MVP-first** strategy to launch fast and iterate faster.
-- 🔄 Love integrating **APIs**, **Auth**, **Database**, and **AI models** from scratch.
-- 🧩 I treat every component, API, and function as a **building block** of a bigger, smarter system.
-- ⚡ Code speed + readability + scalability = My development mantra.
+- 🧱 I believe in shipping **MVPs fast**, then refining based on feedback.
+- 🔄 I integrate systems **end-to-end** — from UI to DB to AI.
+- 🧠 My mindset: Learn fast. Build smart. Grow consistently.
+- 🧩 Every project is a sandbox for testing ideas, improving speed, and simplifying complexity.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Leveling Up
 
-- 📘 Deep dive into **Generative AI**, **agents**, **RAG**, **fine-tuning**, and **AI-based product workflows**
-- 🔧 Mastering **system design**, **Docker**, **CI/CD**, and **full-stack testing**
-- 🌍 Building AI tools for **real-world storytelling, education, and productivity**
+- 🧠 Exploring **LLM agents**, **RAG pipelines**, and **fine-tuning**
+- 🔧 Deepening skills in **System Architecture**, **Docker**, and **CI/CD pipelines**
+- 🛠️ Building full-stack tools that use **AI + clean UI** to solve real problems
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 📫 Email: [tarunpatidar223@gmail.com](mailto:tarunpatidar223@gmail.com)
-- 🐙 GitHub: [TarunPatidar04](https://github.com/TarunPatidar04)
-- 💼 LinkedIn: [Tarun Patidar](https://www.linkedin.com/in/tarun-patidar-8141aa238)
+- 📫 Email: [tarunpatidar223@gmail.com](mailto:tarunpatidar223@gmail.com)  
+- 🐙 GitHub: [TarunPatidar04](https://github.com/TarunPatidar04)  
+- 💼 LinkedIn: [Tarun Patidar](https://www.linkedin.com/in/tarun-patidar-8141aa238)  
 - 🧔 Pronouns: He/Him
 
 ---
 
-## 🔥 Philosophy
+## 🔥 Dev Motto
 
-> *“I don’t chase trends — I build with purpose and learn with fire.”*
+> *“Build smart, work hard, stay curious — and have fun while doing it. Tech isn’t just my skill, it’s my playground.”*
 
 ---
